@@ -2,8 +2,9 @@
 
 
 Install
-Python 3.6
-Numpy 1.16.0
+
+1)Python 3.6
+2)Numpy 1.16.0
 
 Follow 
 1) Creat a folder name "output_mrcnn" in "Instance-Segmentation-of-apple-using-Mask-R-CNN"  folder.
