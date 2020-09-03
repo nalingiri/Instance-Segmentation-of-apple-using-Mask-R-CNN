@@ -15,7 +15,7 @@ python train_mrcnn.py --data_path /home/nalin/Instance-Segmentation-of-apple-usi
 
 python train_mrcnn.py --resume /path_to_model/model_39.pth --epoch 40 --output-dir /path/output_mrcnn
 
-# prediction
+# Prediction
 1) Create a folder name "prediction_mrcnn" in "Instance-Segmentation-of-apple-using-Mask-R-CNN"  folder. Create a file name "out_data.txt".
-2) make a folder of "new_images" in data_set/test/ to save the images after detection.
+2) make a folder of "new_images" in "data_set/test/" to save the images after detection.
 
