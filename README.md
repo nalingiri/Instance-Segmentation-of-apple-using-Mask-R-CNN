@@ -11,6 +11,6 @@ Follow
 
 python train_mrcnn.py --data_path /home/nalin/Instance-Segmentation-of-apple-using-Mask-R-CNN/data_set/ --model mrcnn --epoch 50 --output_dir /home/nalin/Instance-Segmentation-of-apple-using-Mask-R-CNN/output_mrcnn
 
-3)Resume Training:-
+3) Resume Training:-
 
 python train_mrcnn.py --resume /path_to_model/model_39.pth --epoch 40 --output-dir /path/output_mrcnn
